@@ -1,1 +1,1 @@
-[{"title":"book 1","imageUrl":"https://tse3.mm.bing.net/th?id=OIP.xKdjRjuOZLsXOIrOMg5zhwHaJl&pid=Api&P=0","description":"good book","price":"100"}]
+[{"id":"12345","title":"book 1","imageUrl":"https://tse3.mm.bing.net/th?id=OIP.xKdjRjuOZLsXOIrOMg5zhwHaJl&pid=Api&P=0","description":"good book","price":"100"},{"title":"another book","imageUrl":"https://tse3.mm.bing.net/th?id=OIP.xKdjRjuOZLsXOIrOMg5zhwHaJl&pid=Api&P=0","description":"another amazing book","price":"20.99","id":"0.5898433281802435"}]
